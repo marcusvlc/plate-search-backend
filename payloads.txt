@@ -1,0 +1,48 @@
+======= PAYLOAD SINESP-API (exemplo com roubo)
+
+{
+  ano: '2015',
+  anoModelo: '2015',
+  chassi: '*****92663',
+  codigoRetorno: '0',
+  codigoSituacao: '0',
+  cor: 'Branca',
+  data: '12/02/2021 14:36:21',
+  dataAtualizacaoAlarme: '12/02/2021',
+  dataAtualizacaoCaracteristicasVeiculo: '12/02/2021',
+  dataAtualizacaoRouboFurto: '12/02/2021',
+  extra: {},
+  marca: 'VW/UP MOVE MA',
+  mensagemRetorno: 'Sem erros.',
+  modelo: 'VW/UP MOVE MA',
+  municipio: 'Brasília',
+  placa: 'PAG5099',
+  situacao: 'Roubo/Furto',
+  uf: 'DF'
+}
+
+======= PAYLOAD SEARCH-PLATE-PB
+
+{
+  ultimo_licenciamento: '2020',
+  proprietario: '***************',
+  placa: 'npt5588',
+  tipo_combustivel: 'alco/gasol',
+  modelo: 'honda/cg150titanmixk',
+  tipo: 'passa/motociclet',
+  ano_de_fabricacao: '2009',
+  ano_modelo: '2009',
+  categoria: 'particular',
+  cor: 'preta',
+  vencimento_licenciamento: '29/10/2021',
+  observacao: '',
+  restricao: '',
+  financeira: '',
+  municipio: 'campinagrande',
+  situacao: 'emcirculacao',
+  data_consulta: '28/03/2021'
+}
+
+
+
+
